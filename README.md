@@ -21,4 +21,4 @@
 
 > 你可以在修改这部分的任何内容，并提交一个 PR（pull requests）来让我们看见，尽情的折腾吧
 
-我来介绍一下自己（凡尔赛一波）：技术部前任部长，预备小米人，希望我们将来可以成为同事
+我来介绍一下自己（凡尔赛一波）：[issue#2](https://github.com/csxyyiban/2021-recruitment-task/issues/2)
