@@ -20,5 +20,3 @@
 ## 修改区域
 
 > 你可以在修改这部分的任何内容，并提交一个 PR（pull requests）来让我们看见，尽情的折腾吧
-
-我来介绍一下自己（凡尔赛一波）：[详见 issue#2 korilin](https://github.com/csxyyiban/2021-recruitment-task/issues/2)
